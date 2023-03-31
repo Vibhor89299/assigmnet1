@@ -1,3 +1,3 @@
 # assigmnet1
 
-## complete the assignment 
+## completed the assignment 
